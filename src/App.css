@@ -1,0 +1,18 @@
+.container
+ {
+  text-align: center;
+  background-color: #B0E0E6;
+  
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+h1{
+  text-align: center;
+}
+h2{
+  color: white;
+  background: transparent;
+  background-color: #8566aa;
+  padding: 6px 0 3px 0;
+}
